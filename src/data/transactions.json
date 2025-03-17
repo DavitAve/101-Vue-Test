@@ -1,0 +1,255 @@
+[
+  {
+    "id": 1,
+    "date": "2025-02-01",
+    "type": "income",
+    "amount": 15000,
+    "description": "Оплата за проект"
+  },
+  {
+    "id": 3,
+    "date": "2025-02-03",
+    "type": "income",
+    "amount": 12000,
+    "description": "Доход от продажи товаров"
+  },
+  {
+    "id": 2,
+    "date": "2025-02-02",
+    "type": "expense",
+    "amount": 5000,
+    "description": "Оплата подрядчику"
+  },
+  {
+    "id": 5,
+    "date": "2025-02-05",
+    "type": "income",
+    "amount": 18000,
+    "description": "Фриланс проект"
+  },
+  {
+    "id": 4,
+    "date": "2025-02-04",
+    "type": "expense",
+    "amount": 3000,
+    "description": "Аренда офиса"
+  },
+
+  {
+    "id": 6,
+    "date": "2025-02-06",
+    "type": "expense",
+    "amount": 4000,
+    "description": "Закупка оборудования"
+  },
+  {
+    "id": 7,
+    "date": "2025-02-07",
+    "type": "income",
+    "amount": 25000,
+    "description": "Крупный заказ"
+  },
+  {
+    "id": 9,
+    "date": "2025-02-09",
+    "type": "income",
+    "amount": 10000,
+    "description": "Продажа подписки"
+  },
+  {
+    "id": 8,
+    "date": "2025-02-08",
+    "type": "expense",
+    "amount": 2000,
+    "description": "Оплата домена и хостинга"
+  },
+  {
+    "id": 10,
+    "date": "2025-02-10",
+    "type": "expense",
+    "amount": 6000,
+    "description": "Зарплата сотруднику"
+  },
+  {
+    "id": 11,
+    "date": "2025-02-11",
+    "type": "income",
+    "amount": 17000,
+    "description": "Фриланс работа"
+  },
+  {
+    "id": 12,
+    "date": "2025-02-12",
+    "type": "expense",
+    "amount": 3500,
+    "description": "Рекламная кампания"
+  },
+  {
+    "id": 13,
+    "date": "2025-02-13",
+    "type": "income",
+    "amount": 14500,
+    "description": "Продажа цифрового продукта"
+  },
+  {
+    "id": 14,
+    "date": "2025-02-14",
+    "type": "expense",
+    "amount": 4500,
+    "description": "Оплата налогов"
+  },
+  {
+    "id": 15,
+    "date": "2025-02-15",
+    "type": "income",
+    "amount": 19000,
+    "description": "Клиентский платеж"
+  },
+  {
+    "id": 16,
+    "date": "2025-02-16",
+    "type": "expense",
+    "amount": 2800,
+    "description": "Покупка лицензии ПО"
+  },
+  {
+    "id": 17,
+    "date": "2025-02-17",
+    "type": "income",
+    "amount": 11000,
+    "description": "Консультация"
+  },
+  {
+    "id": 18,
+    "date": "2025-02-18",
+    "type": "expense",
+    "amount": 7000,
+    "description": "Закупка расходных материалов"
+  },
+  {
+    "id": 19,
+    "date": "2025-02-19",
+    "type": "income",
+    "amount": 23000,
+    "description": "Оплата услуг по контракту"
+  },
+  {
+    "id": 20,
+    "date": "2025-02-20",
+    "type": "expense",
+    "amount": 3200,
+    "description": "Оплата сервисов"
+  },
+  {
+    "id": 21,
+    "date": "2025-02-21",
+    "type": "income",
+    "amount": 17500,
+    "description": "Поступление средств от инвестора"
+  },
+  {
+    "id": 22,
+    "date": "2025-02-22",
+    "type": "expense",
+    "amount": 5000,
+    "description": "Оплата рекламы"
+  },
+  {
+    "id": 23,
+    "date": "2025-02-23",
+    "type": "income",
+    "amount": 15500,
+    "description": "Комиссия за услуги"
+  },
+  {
+    "id": 24,
+    "date": "2025-02-24",
+    "type": "expense",
+    "amount": 2500,
+    "description": "Оплата подписки"
+  },
+  {
+    "id": 25,
+    "date": "2025-02-25",
+    "type": "income",
+    "amount": 12000,
+    "description": "Платеж клиента"
+  },
+  {
+    "id": 26,
+    "date": "2025-02-26",
+    "type": "expense",
+    "amount": 6300,
+    "description": "Покупка оборудования"
+  },
+  {
+    "id": 27,
+    "date": "2025-02-27",
+    "type": "income",
+    "amount": 21000,
+    "description": "Крупный заказ"
+  },
+  {
+    "id": 28,
+    "date": "2025-02-28",
+    "type": "expense",
+    "amount": 4000,
+    "description": "Оплата транспортных расходов"
+  },
+  {
+    "id": 29,
+    "date": "2025-02-29",
+    "type": "income",
+    "amount": 18000,
+    "description": "Фриланс заказ"
+  },
+  {
+    "id": 30,
+    "date": "2025-03-01",
+    "type": "expense",
+    "amount": 7000,
+    "description": "Зарплата сотрудникам"
+  },
+  {
+    "id": 31,
+    "date": "2025-03-02",
+    "type": "income",
+    "amount": 25000,
+    "description": "Партнерский проект"
+  },
+  {
+    "id": 32,
+    "date": "2025-03-03",
+    "type": "expense",
+    "amount": 5500,
+    "description": "Ремонт оборудования"
+  },
+  {
+    "id": 33,
+    "date": "2025-03-04",
+    "type": "income",
+    "amount": 16000,
+    "description": "Комиссия за услуги"
+  },
+  {
+    "id": 34,
+    "date": "2025-03-05",
+    "type": "expense",
+    "amount": 3100,
+    "description": "Покупка лицензии"
+  },
+  {
+    "id": 35,
+    "date": "2025-03-06",
+    "type": "income",
+    "amount": 14000,
+    "description": "Продажа цифрового продукта"
+  },
+  {
+    "id": 36,
+    "date": "2025-03-07",
+    "type": "expense",
+    "amount": 4800,
+    "description": "Оплата налогов"
+  }
+]
